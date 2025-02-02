@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWISS365AI", "SWISS365AI\SW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swiss365AI.UI", "Swiss365AI.UI\Swiss365AI.UI.csproj", "{873A3A88-4F96-421C-BED3-67AEC83DDEF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swiss365AI.Infrastructure", "Swiss365AI.Infrastructure\Swiss365AI.Infrastructure.csproj", "{5152F4C8-3664-4BE0-926C-456603B736BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swiss365AI.Domain", "Swiss365AI.Domain\Swiss365AI.Domain.csproj", "{705B44E8-0AA0-44AD-9138-5F3AD1A30A80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{873A3A88-4F96-421C-BED3-67AEC83DDEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{873A3A88-4F96-421C-BED3-67AEC83DDEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{873A3A88-4F96-421C-BED3-67AEC83DDEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5152F4C8-3664-4BE0-926C-456603B736BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5152F4C8-3664-4BE0-926C-456603B736BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5152F4C8-3664-4BE0-926C-456603B736BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5152F4C8-3664-4BE0-926C-456603B736BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705B44E8-0AA0-44AD-9138-5F3AD1A30A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705B44E8-0AA0-44AD-9138-5F3AD1A30A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705B44E8-0AA0-44AD-9138-5F3AD1A30A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705B44E8-0AA0-44AD-9138-5F3AD1A30A80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
