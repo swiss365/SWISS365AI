@@ -1,0 +1,6 @@
+@SWISS365AI_HostAddress = http://localhost:5227
+
+GET {{SWISS365AI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
